@@ -15,3 +15,4 @@ for i in range(n):
     for person in names:
         print(f"{person}: khodafez {name}!")
 
+
